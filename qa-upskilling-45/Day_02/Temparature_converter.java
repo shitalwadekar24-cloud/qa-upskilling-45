@@ -5,7 +5,7 @@ public class Temparature_converter {
      
 		double celsius = 30;
 		double fehranaid=(celsius*9/5)+32;
-		System.out.println("celsius :"+celsius );
+		System.out.println("celsius:"+celsius );
 		System.out.println("fehranaid: "+ fehranaid);
 	}
 

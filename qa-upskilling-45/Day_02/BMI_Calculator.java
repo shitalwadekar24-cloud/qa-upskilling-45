@@ -7,7 +7,7 @@ public class BMI_Calculator {
 		double weight=48;
 		double bmi;
 		 bmi=weight/(height*height);
-		 System.out.println("calculated bmi=:" +bmi);
+		 System.out.println("calculated bmi=: " +bmi);
 		 
 	}
 
